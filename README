@@ -16,7 +16,7 @@ along with pyGtk-notifiysnippet.  If not, see <http://www.gnu.org/licenses/>.
 
 *pyGtk-notifiysnippet*
 
-This is a simple snippet I'm hoping to <strike>get working and</strike>
+This is a simple snippet I'm hoping to get working and
 refactor one day to avoid importing another library. Add your threading 
 to the pot as needed.
 
