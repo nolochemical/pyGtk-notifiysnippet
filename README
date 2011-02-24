@@ -12,11 +12,21 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with pyRabbit.  If not, see <http://www.gnu.org/licenses/>.
+along with pyGtk-notifiysnippet.  If not, see <http://www.gnu.org/licenses/>.
 
 *pyGtk-notifiysnippet*
 
-This is a simple snippet I'm hoping to get working and refactor one day 
-to avoid importing another library.
+This is a simple snippet I'm hoping to <strik>get working and</strike>
+refactor one day to avoid importing another library. Add your threading 
+to the pot as needed.
 
+Changelog
+==========
+v0.02
+- fixed event recognition. 
 
+v0.01
+Very ruff outline of how I thought the snippet should work
+- the message dialog doesn't die
+- timer doesn't work, either
+- events (clicking or mousing over the dialog) are not being recognized
